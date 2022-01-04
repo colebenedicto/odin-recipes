@@ -1,0 +1,48 @@
+body {
+    background-color: bisque;
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    color: rgb(34, 31, 31);
+    font-size: larger;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(41, 19, 19);
+}
+
+.recipe-desc {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.front-title {
+    font: 1em Georgia;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(133, 15, 15);
+}
+
+.front-desc {
+    font: 1em "Times New Roman";
+    font-size: large;
+    text-align: center;
+    color: darkolivegreen;
+}
+
+.front-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
